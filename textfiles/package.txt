@@ -1,0 +1,7 @@
+Executable package:-
+    package main:- defines a package that can be compiled and then executed must have a func called 'main'
+
+Reusable package :- 
+    package calculator :- defines a package that can be used as dependency (helper code )
+
+    package uploader:- defines a package that can be used as dependency(helper code)
